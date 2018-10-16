@@ -1,0 +1,5 @@
+[gerrit]
+host=github.com
+
+project=Maojiao/git_test
+defaultbranch=master
